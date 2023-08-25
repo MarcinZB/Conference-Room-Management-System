@@ -1,8 +1,8 @@
-#Conference Room Management System
+# Conference Room Management System
 
 The "Conference Room Management System" project focuses on creating a comprehensive tool for managing conference rooms and making reservations for various events. The primary goal is to provide users with an intuitive interface through which they can browse available rooms, make reservations, edit existing room data, and search for rooms based on specific criteria.
 
-Key Features:
+## Key Features:
 
 Homepage:
 Upon entering the homepage, users are presented with a list of all available conference rooms along with information about their occupancy on a given day. For occupied rooms, the status information is displayed. Links for modifying room data and deleting the room are provided next to each room's name.
@@ -22,7 +22,7 @@ Users are enabled to make room reservations by selecting a reservation date. The
 Room Search (Optional):
 An optional feature allows users to search for rooms based on criteria such as the room's name, capacity, and projector availability.
 
-Technology Stack:
+## Technology Stack:
 The project is developed using the Django framework in Python. The backend logic, data management, and interaction with the database are implemented using Python and Django. The frontend user interface is created using HTML. For data storage and management, the project utilizes the PostgreSQL database.
 
 The project aims to provide an efficient tool for organizations and users who wish to effectively manage conference rooms and make reservations in a transparent manner that aligns with their needs.
