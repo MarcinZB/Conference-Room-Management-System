@@ -1,4 +1,4 @@
-# Reservation_app
+#Conference Room Management System
 
 The "Conference Room Management System" project focuses on creating a comprehensive tool for managing conference rooms and making reservations for various events. The primary goal is to provide users with an intuitive interface through which they can browse available rooms, make reservations, edit existing room data, and search for rooms based on specific criteria.
 
